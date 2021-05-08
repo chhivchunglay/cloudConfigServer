@@ -10,7 +10,7 @@ spring:
         git:
           clone-on-start: true
           force-pull: true
-          default-label: manage-profiles
+          default-label: master
           uri: https://gitlab.com/vichet.chann/smf-config.git
           username: vichet.chann@allweb.com.kh
           password: RXPzUTcUgZ4ZPSsvVTGG
